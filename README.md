@@ -36,4 +36,4 @@ Before running the application, make sure you have the following installed on yo
 
 ## Screenshot 
 
-![Sample Image](https://github.com/DevanshuKumarDev/Leap-To-Do-Application-/blob/main/path/to/image.jpg](https://github.com/DevanshuKumarDev/Leap-To-Do-Application-/blob/main/my-todo-list-ui/src/Screenshot%20(1380).png)https://github.com/DevanshuKumarDev/Leap-To-Do-Application-/blob/main/my-todo-list-ui/src/Screenshot%20(1380).png)
+![Sample Image](https://github.com/DevanshuKumarDev/Leap-To-Do-Application-/blob/main/my-todo-list-ui/src/Screenshot%20(1380).png)
